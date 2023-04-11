@@ -9,12 +9,10 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3 
-        with: ${{ github.repository }}
-    
+    steps:    
       - uses: luisricardo-ai/luisricardo-ai@main
         with:
+          Default: ${{ github.repository }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_COMMIT: "True"
