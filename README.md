@@ -16,4 +16,65 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2014%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-148-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 17 Contributions in the Year 2023
+ > 
+> 📦 241 Bytes Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌇 Daytime    17 commits     ███████████████████████░░   94.44% 
+🌃 Evening    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+Tuesday      14 commits     ███████████████████░░░░░░   77.78% 
+Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Friday       2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Saturday     1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Python                   19 mins             █████████████░░░░░░░░░░░░   51.57% 
+Other                    11 mins             ███████░░░░░░░░░░░░░░░░░░   29.44% 
+Markdown                 7 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.42% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57%
+
+🔥 Editors: 
+PyCharmCore              22 mins             ██████████████░░░░░░░░░░░   58.08% 
+VS Code                  16 mins             ██████████░░░░░░░░░░░░░░░   41.92%
+
+💻 Operating System: 
+Windows                  38 mins             █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 11/04/2023 18:09:26 UTC
 <!--END_SECTION:waka-->
