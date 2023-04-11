@@ -27,6 +27,5 @@ jobs:
           SHOW_UPDATED_DATE: "True"
           SHOW_SHORT_INFO: "True"
           
-- uses: actions/checkout@v3 
-  with: 
-    ${{ github.repository }}
+uses: actions/checkout@v3
+with: ${{ github.repository }}
