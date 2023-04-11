@@ -10,7 +10,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:    
-      - uses: luisricardo-ai/luisricardo-ai@main
+      - uses: AriHenrique/waka-readme-stats-ari@master
         with:
           Default: ${{ github.repository }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -27,5 +27,3 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_UPDATED_DATE: "True"
           SHOW_SHORT_INFO: "True"
-          
-
