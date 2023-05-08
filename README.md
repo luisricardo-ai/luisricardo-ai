@@ -3,7 +3,7 @@
 This some of my code data, this records started at 04/12/2023
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -11,7 +11,7 @@ This some of my code data, this records started at 04/12/2023
 
 > 🏆 21 Contributions in the Year 2023
  > 
-> 📦 443 Bytes Used in GitHub's Storage 
+> 📦 446 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -64,5 +64,5 @@ Windows                  8 hrs 49 mins       ███████████�
 ```
 
 
- Last Updated on 08/05/2023 17:36:25 UTC
+ Last Updated on 08/05/2023 18:36:31 UTC
 <!--END_SECTION:waka-->
