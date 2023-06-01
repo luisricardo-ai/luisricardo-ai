@@ -11,7 +11,7 @@ This some of my code data, this records started at 04/12/2023
 
 > 🏆 21 Contributions in the Year 2023
  > 
-> 📦 609 Bytes Used in GitHub's Storage 
+> 📦 565 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -63,5 +63,5 @@ Windows                  17 hrs 26 mins      ███████████�
 ```
 
 
- Last Updated on 31/05/2023 23:36:28 UTC
+ Last Updated on 01/06/2023 02:30:49 UTC
 <!--END_SECTION:waka-->
