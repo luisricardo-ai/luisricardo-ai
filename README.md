@@ -11,7 +11,7 @@ This some of my code data, this records started at 04/12/2023
 
 > 🏆 23 Contributions in the Year 2023
  > 
-> 📦 728 Bytes Used in GitHub's Storage 
+> 📦 8.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -64,5 +64,5 @@ WSL                      3 hrs 36 mins       ██████████░�
 ```
 
 
- Last Updated on 20/06/2023 19:35:50 UTC
+ Last Updated on 20/06/2023 20:36:47 UTC
 <!--END_SECTION:waka-->
