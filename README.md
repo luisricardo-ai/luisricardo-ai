@@ -3,7 +3,7 @@
 This some of my code data, this records started at 04/12/2023
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -64,5 +64,5 @@ WSL                      5 hrs 29 mins       ███████████�
 ```
 
 
- Last Updated on 03/08/2023 14:35:46 UTC
+ Last Updated on 03/08/2023 15:36:14 UTC
 <!--END_SECTION:waka-->
