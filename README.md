@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-This some of my code data, this records started at 04/12/2023
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2029%20mins-blue)
 
