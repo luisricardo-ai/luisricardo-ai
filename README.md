@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -62,5 +62,5 @@ WSL                      2 hrs 21 mins       ██████░░░░░�
 ```
 
 
- Last Updated on 10/08/2023 21:35:59 UTC
+ Last Updated on 10/08/2023 22:35:34 UTC
 <!--END_SECTION:waka-->
