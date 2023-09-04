@@ -1,66 +1,64 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 26 Contributions in the Year 2023
- > 
 > 📦 9.2 kB Used in GitHub's Storage 
  > 
-> 💼 Opted to Hire
+> 🏆 26 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
  > 
-> 🔑 9 Private Repositories  
+> 🔑 9 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94% 
-🌇 Daytime    29 commits     █████████████████████░░░░   85.29% 
-🌃 Evening    4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
+🌞 Morning                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+🌆 Daytime                29 commits          █████████████████████░░░░   85.29 % 
+🌃 Evening                4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
-Tuesday      17 commits     ████████████░░░░░░░░░░░░░   50.0% 
-Wednesday    4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
-Saturday     7 commits      █████░░░░░░░░░░░░░░░░░░░░   20.59% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
+Monday                   3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Tuesday                  17 commits          ████████████░░░░░░░░░░░░░   50.00 % 
+Wednesday                4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Saturday                 7 commits           █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Sao_Paulo
+🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   5 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   34.62% 
-Assembly                 2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.69% 
-YAML                     2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.14% 
-Other                    1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
-SQL                      1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.03%
+Python                   8 hrs 29 mins       ████████████░░░░░░░░░░░░░   48.16 % 
+Assembly                 2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Other                    1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+SQL                      1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+JSON                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 4 mins       █████████████████████████   100.0%
+VS Code                  17 hrs 31 mins      █████████████████████████   99.47 % 
+PyCharmCore              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 💻 Operating System: 
-Windows                  12 hrs 2 mins       ████████████████████░░░░░   79.87% 
-WSL                      3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.13%
-
+Windows                  15 hrs 8 mins       █████████████████████░░░░   85.95 % 
+WSL                      2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 ```
 
 
- Last Updated on 31/08/2023 21:35:59 UTC
+ Last Updated on 04/09/2023 18:35:23 UTC
 <!--END_SECTION:waka-->
