@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-354%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -58,5 +58,5 @@ Windows                  8 hrs 1 min         ███████████�
 ```
 
 
- Last Updated on 15/11/2023 02:40:23 UTC
+ Last Updated on 15/11/2023 03:35:45 UTC
 <!--END_SECTION:waka-->
