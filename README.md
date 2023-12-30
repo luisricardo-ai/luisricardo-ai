@@ -44,17 +44,15 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-SQL                      2 hrs 41 mins       ██████████████████░░░░░░░   73.09 % 
-Other                    47 mins             █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/12/2023 03:35:17 UTC
+ Last Updated on 30/12/2023 04:36:49 UTC
 <!--END_SECTION:waka-->
