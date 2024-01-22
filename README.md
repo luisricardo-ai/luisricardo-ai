@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 11.3 kB Used in GitHub's Storage 
+> 📦 11.4 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
@@ -56,5 +56,5 @@ Windows                  10 hrs 7 mins       ███████████�
 ```
 
 
- Last Updated on 22/01/2024 15:35:39 UTC
+ Last Updated on 22/01/2024 16:39:09 UTC
 <!--END_SECTION:waka-->
