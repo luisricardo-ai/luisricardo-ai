@@ -12,6 +12,6 @@ I'm passionate about building scalable and efficient data solutions. I specializ
 
 ## 📫 Connect with me!
 - LinkedIn: [linkedin.com/in/luispalharini]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/luis-palharini/))
-- GitHub: [github.com/luispalharini](https://github.com/luisricardo-ai)
+- GitHub: [github.com/luisricardo-ai](https://github.com/luisricardo-ai)
 
 ✍️ *"The best way to predict the future is to create it."*  
