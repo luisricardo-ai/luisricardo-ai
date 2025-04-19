@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Luis Palharini 
+# Hello there! 👋 I'm Luis Palharini 
 
 🚀 **Data Engineer | AWS Enthusiast | Exploring Full-stack Development** 
 
